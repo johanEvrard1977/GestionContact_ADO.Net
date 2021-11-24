@@ -1,0 +1,12 @@
+C:\Sources\ASP.Net core\GestionContact\GestionContact.DAL\bin\Debug\net5.0\GestionContact.DAL.deps.json
+C:\Sources\ASP.Net core\GestionContact\GestionContact.DAL\bin\Debug\net5.0\GestionContact.DAL.dll
+C:\Sources\ASP.Net core\GestionContact\GestionContact.DAL\bin\Debug\net5.0\ref\GestionContact.DAL.dll
+C:\Sources\ASP.Net core\GestionContact\GestionContact.DAL\bin\Debug\net5.0\GestionContact.DAL.pdb
+C:\Sources\ASP.Net core\GestionContact\GestionContact.DAL\obj\Debug\net5.0\GestionContact.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sources\ASP.Net core\GestionContact\GestionContact.DAL\obj\Debug\net5.0\GestionContact.DAL.AssemblyInfoInputs.cache
+C:\Sources\ASP.Net core\GestionContact\GestionContact.DAL\obj\Debug\net5.0\GestionContact.DAL.AssemblyInfo.cs
+C:\Sources\ASP.Net core\GestionContact\GestionContact.DAL\obj\Debug\net5.0\GestionContact.DAL.csproj.CoreCompileInputs.cache
+C:\Sources\ASP.Net core\GestionContact\GestionContact.DAL\obj\Debug\net5.0\GestionContact.DAL.dll
+C:\Sources\ASP.Net core\GestionContact\GestionContact.DAL\obj\Debug\net5.0\ref\GestionContact.DAL.dll
+C:\Sources\ASP.Net core\GestionContact\GestionContact.DAL\obj\Debug\net5.0\GestionContact.DAL.pdb
+C:\Sources\ASP.Net core\GestionContact\GestionContact.DAL\obj\Debug\net5.0\GestionContact.DAL.csprojAssemblyReference.cache

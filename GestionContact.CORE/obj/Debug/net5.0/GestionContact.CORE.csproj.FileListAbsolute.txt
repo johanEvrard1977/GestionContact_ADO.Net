@@ -1,0 +1,17 @@
+C:\Sources\ASP.Net core\GestionContact\GestionContact.CORE\bin\Debug\net5.0\GestionContact.CORE.deps.json
+C:\Sources\ASP.Net core\GestionContact\GestionContact.CORE\bin\Debug\net5.0\GestionContact.CORE.dll
+C:\Sources\ASP.Net core\GestionContact\GestionContact.CORE\bin\Debug\net5.0\ref\GestionContact.CORE.dll
+C:\Sources\ASP.Net core\GestionContact\GestionContact.CORE\bin\Debug\net5.0\GestionContact.CORE.pdb
+C:\Sources\ASP.Net core\GestionContact\GestionContact.CORE\bin\Debug\net5.0\GestionContact.DAL.dll
+C:\Sources\ASP.Net core\GestionContact\GestionContact.CORE\bin\Debug\net5.0\Tools.dll
+C:\Sources\ASP.Net core\GestionContact\GestionContact.CORE\bin\Debug\net5.0\GestionContact.DAL.pdb
+C:\Sources\ASP.Net core\GestionContact\GestionContact.CORE\bin\Debug\net5.0\Tools.pdb
+C:\Sources\ASP.Net core\GestionContact\GestionContact.CORE\obj\Debug\net5.0\GestionContact.CORE.csprojAssemblyReference.cache
+C:\Sources\ASP.Net core\GestionContact\GestionContact.CORE\obj\Debug\net5.0\GestionContact.CORE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sources\ASP.Net core\GestionContact\GestionContact.CORE\obj\Debug\net5.0\GestionContact.CORE.AssemblyInfoInputs.cache
+C:\Sources\ASP.Net core\GestionContact\GestionContact.CORE\obj\Debug\net5.0\GestionContact.CORE.AssemblyInfo.cs
+C:\Sources\ASP.Net core\GestionContact\GestionContact.CORE\obj\Debug\net5.0\GestionContact.CORE.csproj.CoreCompileInputs.cache
+C:\Sources\ASP.Net core\GestionContact\GestionContact.CORE\obj\Debug\net5.0\GestionContact.CORE.csproj.CopyComplete
+C:\Sources\ASP.Net core\GestionContact\GestionContact.CORE\obj\Debug\net5.0\GestionContact.CORE.dll
+C:\Sources\ASP.Net core\GestionContact\GestionContact.CORE\obj\Debug\net5.0\ref\GestionContact.CORE.dll
+C:\Sources\ASP.Net core\GestionContact\GestionContact.CORE\obj\Debug\net5.0\GestionContact.CORE.pdb

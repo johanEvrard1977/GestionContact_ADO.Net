@@ -1,0 +1,38 @@
+﻿@*@using Microsoft.AspNetCore.Http*@
+@*n'est plus necessaire parce qu'inclut directement dans le fichier _ViewImports.cshtml*@
+@*@using GestionFrigo.Helpers*@
+@{
+    LoginSuccessDto user = SessionHelper.Get<LoginSuccessDto>(Context.Session);
+}
+@if (@user != null)
+{
+    <ul class="nav navbar-nav navbar-right">
+        <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="#" role="button" aria-expanded="false">@user.Email</a>
+            <ul class="dropdown-menu">
+
+                <li class="nav-item">
+                    <a class="nav-link text-dark" asp-area="" asp-controller="Contact" asp-action="Index">Contact</a>
+                </li>
+                <li><hr class="dropdown-divider"></li>
+                <li class="nav-item">
+                    <a class="nav-link text-dark" asp-area="" asp-controller="User" asp-action="LogOut">LogOut</a>
+                </li>
+            </ul>
+        </li>
+    </ul>
+
+}
+else
+{
+    <ul class="nav navbar-nav navbar-right">
+
+        <li class="nav-item">
+            <a class="nav-link text-dark" asp-area="" asp-controller="User" asp-action="Login">Login</a>
+        </li>
+
+        <li class="nav-item">
+            <a class="nav-link text-dark" asp-area="" asp-controller="User" asp-action="Create">s'enregistrer</a>
+        </li>
+    </ul>
+}

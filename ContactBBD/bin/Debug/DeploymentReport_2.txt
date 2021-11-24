@@ -1,0 +1,19 @@
+﻿** Met en surbrillance
+     Tables à reconstruire
+       Aucun
+     Index ordonnés en clusters à supprimer
+       Aucun
+     Index ordonnés en clusters à créer.
+       Aucun
+     Problèmes de données possibles
+       Aucun
+
+** Actions de l'utilisateur
+     Créer
+       [dbo].[Contact] (Table)
+       [dbo].[User] (Table)
+       [dbo].[SF_HashPassword] (Fonction)
+       [dbo].[SP_Add_User] (Procédure)
+       [dbo].[SP_LoginUser] (Procédure)
+
+** Actions de support
